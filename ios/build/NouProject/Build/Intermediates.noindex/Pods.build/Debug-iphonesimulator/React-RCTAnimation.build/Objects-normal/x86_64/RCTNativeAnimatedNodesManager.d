@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTNativeAnimatedNodesManager.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTAdditionAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTAnimationDriver.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTDiffClampAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTDivisionAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTEventAnimation.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTFrameAnimation.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTDecayAnimation.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTInterpolationAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTModuloAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTMultiplicationAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTPropsAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTSpringAnimation.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTStyleAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTSubtractionAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTTransformAnimatedNode.h \
+  /Users/tomasyaya/Desktop/Dev/native-work/NouProject/ios/Pods/Headers/Public/React-Core/React/RCTTrackingAnimatedNode.h
